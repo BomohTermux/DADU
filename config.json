@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "-xxx-BOMOH TERMUX-xxx-",
-     "Base Bet": "0.0.01",
+     "Base Bet": "0.01",
      "Max Bet": "1.9",
      "Chance": "30.95",
      "Random Chance": {
