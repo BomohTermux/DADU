@@ -1,0 +1,47 @@
+{
+
+ "Account": {
+"Username": "username",
+     "Password": "password"
+     },
+ "Target Profit": "100",
+ "Target Win": "2000",
+ "Lose Target": "0",
+ "Reset If Target Profit": "ON",
+ "Reset If Target Win": "OFF",
+ "Interval": "0",
+ "Config": [{
+
+     "Name Bet Set": "-xxx-BOMOH TERMUX-xxx-",
+     "Base Bet": "0.0.01",
+     "Max Bet": "1.9",
+     "Chance": "30.95",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "30",
+          "Max": "50"
+		  },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.6",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "",
+       "Wallet Address":"",
+       "Amount": ""
+      },
+  "User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
